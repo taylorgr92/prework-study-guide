@@ -1,3 +1,6 @@
+
+//I am the Javascript queen!
+
 var topics = ["HTML", "CSS", "Git", "Javascript"];
 
 var randomTopic= topics[Math.floor(Math.random() * topics.length)];
